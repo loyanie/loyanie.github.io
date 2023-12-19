@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 
 Loyani Loyani is an Assistant Lecturer of Machine Learning in the School of Computational and Communication Science and Engineering (CoCSE) at the Nelson Mandela African Institution of Science and Technology ([NM-AIST](http://nm-aist.ac.tz/)). Prior to joining the NM-AIST, He was an Assistant Lecturer of Computer Science in the Department of Natural Sciences and Information Technology at [Mwenge Catholic University](https://www.mwecau.ac.tz). He received his Master's and Bachelor degrees at the NM-AIST and [Mzumbe University](http://mzumbe.ac.tz), respectively. 
 
