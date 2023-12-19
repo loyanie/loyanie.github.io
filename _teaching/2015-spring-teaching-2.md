@@ -1,8 +1,8 @@
 ---
 title: "NM-AIST"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Graduate"
+permalink: /teaching/2022-NMAIST
 venue: "Nelson Mandela African Institution of Science and Technology, School of Computational and Communication Science and
 Engineering (CoCSE)"
 date: 2022-11-01
