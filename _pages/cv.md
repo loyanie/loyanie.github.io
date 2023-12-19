@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Information Technology and Systems, Mzumbe University, 2017
+* MS. in Information Communication Science and Engineering, Nelson Mandela African Institution of Science and Technology, 2021
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2020 - Sept 2021: Research Assistant
+  * Tanzania Lacuna Fund TLF) Project hosted at the NM-AIST
+  * Duties included: Collecting and annotating data on maize and banana diseases for Deep learning tasks
+  * Supervisor: Dr. Neema Mduma
+ 
+* June - Aug 2021: Field/Research Assistant
+  * Exploring the Current Status and Future Prospects for Mobile-enabled Diagnostics in Tanzania Project hosted at the NM-AIST and KCRI
+  * Duties included: Collecting data from Medical experts using ODK questionnaire and oral interview, and Assist the PI in data cleaning and analysis.
+  * Supervisor: Dr. Dina Machuve and Dr. Sr. John-Mary Vianney
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2020 - Feb 2021: Research Assistant
+  * Automated Poultry Disease Diagnostics ([APDD](https://twiga2.github.io/apdd/theteam/)) Project hosted at the NM-AIST
+  * Duties included: Managanage a Data and Information Sciences Research (DISR) Lab, and Assist the PI in collecting and annotating data, and developing a deep learning tool for poultry diseases diagnostics diagnostics.
+  * Supervisor: Dr. Dina Machuve
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
