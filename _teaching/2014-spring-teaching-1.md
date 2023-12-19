@@ -1,4 +1,4 @@
-<img width="154" alt="image" src="https://github.com/loyanie/loyanie.github.io/assets/39387756/6891315e-6cb4-41e5-b66a-961ecb472aa6">---
+---
 title: "Mwenge Catholic University"
 collection: teaching
 type: "Undergraduate Courses"
