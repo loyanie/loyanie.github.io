@@ -85,10 +85,10 @@ author:
   bio              : "Assistant Lecturer"
   location         : "Arusha, Tanzania"
   employer         : "Nelson Mandela African Institution of Science and Technology (NM AIST)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iyMgIzkAAAAJ&hl=en&authuser=1"
   email            : "loyani.loyani@nm-aist.ac.tz"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Loyani-Loyani"
   uri              :
   bitbucket        :
   codepen          :
