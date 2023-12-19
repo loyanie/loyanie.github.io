@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "NM-AIST"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Nelson Mandela African Institution of Science and Technology, School of Computational and Communication Science and
+Engineering (CoCSE)"
+date: 2022-11-01
+location: "Arusha, Tanzania"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Here, I assist in teaching the following courses for graduate students at the School of Computational and Communication Science and
+Engineering (CoCSE):
 
-Heading 1
-======
+- Machine Learning Applications and Technologies
+- Data Mining
+- Database and Database Management Systems
+- Systems Analysis, Design and Modelling 
 
-Heading 2
-======
 
-Heading 3
-======
