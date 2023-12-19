@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Mwenge Catholic University"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Mwenge Catholic University, Department of Natural Sciences and Information Technology"
+date: 2021-11-01
+location: "Kilimanjaro, Tanzania"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Here, I taught a range of Computer Science subjects including Basic Computer Applications, Database and Database Management Systems, Android Mobile Application, System Analysis and Design, and Software Development
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
