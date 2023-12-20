@@ -12,4 +12,5 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Paper](https://arxiv.org/abs/2004.04023)
 
-Recommended citation: Rubanga, D.P., <b>Loyani, L.K.</b>, Richard, M., & Shimada, S. (2020). A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants Plants. <i>International Conference on Learning Representations (ICLR) </i>. arXiv preprint arXiv:2004.04023 
+Recommended citation: Rubanga, D.P., <b>Loyani, L.K.</b>, Richard, M., & Shimada, S. (2020). A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants Plants. <i>International Conference on Learning Representations (ICLR) </i>. 
+https://doi.org/10.48550/arXiv.2004.04023
