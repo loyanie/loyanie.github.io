@@ -16,6 +16,11 @@ Education
 
 Research experience
 ======
+* June 2019 - Sept 2021: Masters’ Dissertation
+  * A Quantification Model Against Tuta Absoluta effects on Tomato Plants: A Computer Vision Approach
+  * Duties included: Collecting and annotating tomato dataset, Developing deep learning models for early detection, segmentation and quantification of Tuta absoluta's damage on tomato plants, Deploying the model, and Publishing research papers 
+  * Supervisor: Dr. Dina Machuve, Dr. Denis Pastory and Prof. Karen Bradshaw
+    
 * Dec 2020 - Sept 2021: Research Assistant
   * Tanzania Lacuna Fund TLF) Project hosted at the NM-AIST
   * Duties included: Collecting and annotating data on maize and banana diseases for Deep learning tasks
