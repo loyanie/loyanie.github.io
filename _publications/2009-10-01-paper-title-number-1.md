@@ -6,7 +6,8 @@ excerpt: 'In this study, we propose a Convolutional Neural Network (CNN) approac
 date: 2020-04-26
 venue: 'International Conference on Learning Representations (ICLR)'
 paperurl: 'https://doi.org/10.48550/arXiv.2004.04023'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Rubanga, D.P., <b>Loyani, L.K.</b>, Richard, M., & Shimada, S. (2020). A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants Plants. <i>International Conference on Learning Representations (ICLR) </i>. 
+https://doi.org/10.48550/arXiv.2004.04023'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
