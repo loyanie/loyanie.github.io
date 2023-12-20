@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc. in Information Technology and Systems, Mzumbe University, 2017
 * MS. in Information Communication Science and Engineering, Nelson Mandela African Institution of Science and Technology, 2021
+* BSc. in Information Technology and Systems, Mzumbe University, 2017
 
 Research experience
 ======
