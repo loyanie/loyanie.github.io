@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 3"
+title: "A Deep Learning-based Mobile Application for Segmenting Tuta absoluta’s Damages on Tomato Plants"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021-10-04-App
+
+excerpt: '<img align="left" width="250" height="100" src="/images/TutaOne.jpg">           
+
+With the advances in technology, computer vision applications using deep learning methods like Convolutional Neural Networks (CNNs) have been extensively applied in agriculture. Deploying these CNN models on mobile phones is beneficial in making them accessible to everyone, especially farmers and agricultural extension officers. This paper aims to automate the detection of damages caused by a devastating tomato pest known as Tuta Absoluta. To accomplish this objective, a CNN segmentation model trained on a tomato leaf image dataset is deployed on a smartphone application for early and real-time diagnosis of the pest and effective management at early tomato growth stages. The application can precisely detect and segment the shapes of Tuta Absoluta-infected areas on tomato leaves with a minimum confidence of 70% in 5 seconds only.'
+date: 2021-10-04
+venue: 'Engineering, Technology & Applied Science Research'
+paperurl: 'https://doi.org/10.48084/etasr.4355'
+citation: ' <b>Loyani, L.</b>, & Machuve, D. (2021). A Deep Learning-based Mobile Application for Segmenting Tuta Absoluta’s Damage on Tomato Plants. <i>Engineering, Technology & Applied Science Research</i>, 11(5), 7730–7737.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+With the advances in technology, computer vision applications using deep learning methods like Convolutional Neural Networks (CNNs) have been extensively applied in agriculture. Deploying these CNN models on mobile phones is beneficial in making them accessible to everyone, especially farmers and agricultural extension officers. This paper aims to automate the detection of damages caused by a devastating tomato pest known as Tuta Absoluta. To accomplish this objective, a CNN segmentation model trained on a tomato leaf image dataset is deployed on a smartphone application for early and real-time diagnosis of the pest and effective management at early tomato growth stages. The application can precisely detect and segment the shapes of Tuta Absoluta-infected areas on tomato leaves with a minimum confidence of 70% in 5 seconds only.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+![SelectedImage](/images/sampledatawithdate.PNG)
+
+[Download Dataset Here](https://doi.org/10.48084/etasr.4355)
+
+Recommended citation: <b>Loyani, L.</b>, & Machuve, D. (2021). A Deep Learning-based Mobile Application for Segmenting Tuta Absoluta’s Damage on Tomato Plants. <i>Engineering, Technology & Applied Science Research</i>, 11(5), 7730–7737. https://doi.org/10.48084/etasr.4355
