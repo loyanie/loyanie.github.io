@@ -1,5 +1,5 @@
 ---
-title: "A Deep Learning-based Mobile Application for Segmenting Tuta absoluta’s Damages on Tomato Plants"
+title: "Segmentation of Tuta absoluta’s damage on tomato plants: A computer vision approach"
 collection: publications
 permalink: /publication/2021-09-06-Segmentation
 
