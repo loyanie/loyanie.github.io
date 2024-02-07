@@ -7,7 +7,15 @@ venue: "Virtual"
 date: 2020-07-24
 location: "Kampala, Uganda"
 ---
-
+---
+title: "A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/ICLR2020
+venue: "Virtual"
+date: 2020-04-26
+location: "Adis Ababa, Ethiopia"
+---
 
 In an era where adaptability and resilience are more crucial than ever, the academic and professional communities continue to find innovative ways to share knowledge and foster collaboration. This was exemplified at the Data Science Africa conference, which, due to the ongoing COVID-19 pandemic, was conducted online. From July 24th to August 1st, 2020, researchers, data scientists, and practitioners from across the continent and beyond gathered virtually to explore the latest developments in data science and its applications. Among the many insightful contributions, I had the privilege to present my work titled "A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in Tomato Plants" to a diverse and engaged audience in Kampala, Uganda, albeit remotely.
 
