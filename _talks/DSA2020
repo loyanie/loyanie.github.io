@@ -3,16 +3,17 @@ title: "A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in
 Plants"
 collection: talks
 type: "Contributed Talk, Data Science Africa (DSA)"
-permalink: /talks/ICLR2020
+permalink: /talks/DSA2020
 venue: "Virtual"
-date: 2020-04-26
+date: 2020-07-24
 location: "Kampala, Uganda"
 ---
 
-In the midst of the global shift towards virtual events due to the COVID-19 pandemic, I had the distinct opportunity to present my research at the Computer Vision for Agriculture workshop. This event was part of the larger International Conference on Learning Representations (ICLR), hosted virtually from April 26th to 30th, 2020 in Addis Ababa, Ethiopia. My presentation, entitled "A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants," focused on leveraging advanced AI techniques to tackle the challenges posed by Tuta absoluta, a pest that significantly impacts tomato crops. The innovative approach highlighted in my research emphasized the potential of deep learning in enhancing agricultural pest detection and management.
+# Navigating Challenges and Innovation: My Presentation at Data Science Africa 2020
 
-The significance of this work was further recognized through its publication in the conference proceedings. This acknowledgment not only validated the research but also contributed to the growing body of knowledge in the field of AI in agriculture. The publication serves as a testament to the potential of AI in addressing real-world problems and enhancing agricultural practices.
+In an era where adaptability and resilience are more crucial than ever, the academic and professional communities continue to find innovative ways to share knowledge and foster collaboration. This was exemplified at the Data Science Africa conference, which, due to the ongoing COVID-19 pandemic, was conducted online. From July 24th to August 1st, 2020, researchers, data scientists, and practitioners from across the continent and beyond gathered virtually to explore the latest developments in data science and its applications. Among the many insightful contributions, I had the privilege to present my work titled "A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in Tomato Plants" to a diverse and engaged audience in Kampala, Uganda, albeit remotely.
 
-The virtual format of the workshop, necessitated by the ongoing pandemic, created an unprecedented opportunity for a broader, more diverse audience to engage and collaborate. It allowed experts and enthusiasts from various parts of the world to participate and share insights, fostering a rich environment of global collaboration. 
+My talk centered on addressing the pressing issue of Tuta absoluta, a pest that poses a significant threat to tomato production, a staple food and economic crop in many countries. By leveraging deep learning, my research aimed to provide an innovative solution for quantifying the damage caused by this pest, thereby enabling more effective and targeted pest management strategies. This approach not only highlights the potential of applying AI in agriculture but also reflects a broader trend of employing data science to solve real-world problems. The virtual platform of Data Science Africa 2020 facilitated a rich exchange of ideas, allowing participants to share their research, discuss challenges, and identify opportunities for collaboration without the constraints of physical distance.
 
+The experience of presenting at Data Science Africa was both enlightening and inspiring. It underscored the importance of community and collaboration in the face of global challenges like the pandemic. The conference not only provided a platform for showcasing the potential of data science in addressing agricultural issues but also demonstrated the resilience of the scientific community, adapting to new norms of interaction and communication. As we continue to navigate these uncertain times, events like Data Science Africa serve as a reminder of the power of collective effort and the enduring spirit of discovery and innovation in the field of data science.
 [Read Here](https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper2)
