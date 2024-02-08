@@ -13,6 +13,6 @@ The experience was profoundly enriching, not just academically but also personal
 
 [More information here](https://nbviewer.org/github/blackinai/blackinai.github.io/blob/4a3923311e72ea0613a1fcfd7472d98782787ff9/bai/src/files/BlackinAI22AcceptedPapers.pdf)
 
-![SelectedImage](/images/NeurIPS2022-2.ipg)
+![SelectedImage](/images/NeurIPS2022-2.jpeg)
 
-![SelectedImage](/images/NeurIPS2022-3.jpg)
+![SelectedImage](/images/NeurIPS2022-3.jpeg)
