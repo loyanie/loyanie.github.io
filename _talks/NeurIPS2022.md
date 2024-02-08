@@ -12,3 +12,7 @@ In late 2022, I had the remarkable opportunity to attend and present at the 6th 
 The experience was profoundly enriching, not just academically but also personally, as it provided a unique environment to engage with experts, receive feedback, and explore the latest in AI research and applications. The BAI workshop, in particular, stood out as a vibrant hub for researchers from diverse backgrounds to exchange ideas, fostering a sense of community and shared purpose. Beyond the workshop, NeurIPS offered a wide array of sessions that spanned the spectrum of neural information processing, from theoretical advancements to practical applications, all of which broadened my understanding and appreciation of the field. The insights gained and the connections made during this event have had a lasting impact on my approach to research and my commitment to contributing to the advancement of AI for the betterment of society.
 
 [More information here](https://nbviewer.org/github/blackinai/blackinai.github.io/blob/4a3923311e72ea0613a1fcfd7472d98782787ff9/bai/src/files/BlackinAI22AcceptedPapers.pdf)
+
+![SelectedImage](/images/NeurIPS2022-2.ipg)
+
+![SelectedImage](/images/NeurIPS2022-3.jpg)
