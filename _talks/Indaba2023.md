@@ -16,8 +16,10 @@ DLI2023 was an enriching experience that went beyond mere academic presentations
 
 [More Here](https://deeplearningindaba.com/2023/poster-submissions/) and [Here](https://wscv-indaba.github.io/2023#awards) 
 
-![SelectedImage](/images/NeurIPS2019-1.JPG)
+![SelectedImage](/images/Indaba2023-1.JPG)
 
-![SelectedImage](/images/NeurIPS2019-2.JPG)
+![SelectedImage](/images/Indaba2023-2.jpeg)
 
-![SelectedImage](/images/NeurIPS2019-3.jpg)
+![SelectedImage](/images/Indaba2023-3.jpeg)
+
+![SelectedImage](/images/Indaba2023-4.jpeg)
