@@ -3,10 +3,10 @@ title: "Decision Support System for Farmers against Tuta Absoluta Effects on Tom
 Plants"
 collection: talks
 type: "Poster Presentation"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/NeurIPS2019
 venue: "3rd Black in AI (BAI) workshop co located with the 33rd Neural Information Processing Systems
 (NeurIPS)"
-date: 2012-03-01
+date: 2019-12-08
 location: "Vancouver, Canada"
 ---
 
