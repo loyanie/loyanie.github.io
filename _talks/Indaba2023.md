@@ -1,18 +1,17 @@
 ---
-title: "A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in Tomato Plants"
+title: "Segmentation of Tuta absoluta’s Damage on Tomato Plants: A Computer Vision Approach"
 collection: talks
-type: "Contributed Talk, Data Science Africa (DSA)"
-permalink: /talks/DSA2020
-venue: "Virtual"
-date: 2020-07-24
-location: "Kampala, Uganda"
+type: "Spotlight Talk and Poster Presentation"
+permalink: /talks/Indaba2023
+venue: "Deep Learning Indaba"
+date: 2023-09-03
+location: "Accra, Ghana"
 ---
 
 
-From July 24th to August 1st, 2020, researchers, data scientists, and practitioners from across the continent and beyond gathered virtually to explore the latest developments in data science and its applications. Among the many insightful contributions, I had the privilege to present my work titled "A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in Tomato Plants" to a diverse and engaged audience in Kampala, Uganda, albeit remotely.
+In September 2023, I had the distinguished opportunity to participate in the Deep Learning Indaba (DLI2023) conference, an event celebrated for its contribution to the growth and ethical application of AI across Africa, held in Accra, Ghana. This conference, which took place from the 3rd to the 9th, served as a significant platform for me to showcase my research through both a poster and a spotlight talk titled "Segmentation of Tuta absoluta’s Damage on Tomato Plants: A Computer Vision Approach." My work, focusing on utilizing advanced computer vision techniques to detect and assess the impact of the Tuta absoluta pest on tomato crops, was recognized with an honorable mention at the Weakly Supervised Computer Vision workshop. This accolade underscored the relevance and potential of applying AI solutions to critical agricultural challenges. The full funding of my attendance by DLI not only facilitated my participation but also emphasized the conference's commitment to fostering a diverse and inclusive AI research community.
 
-My talk centered on addressing the pressing issue of Tuta absoluta, a pest that poses a significant threat to tomato production, a staple food and economic crop in many countries. By leveraging deep learning, my research aimed to provide an innovative solution for quantifying the damage caused by this pest, thereby enabling more effective and targeted pest management strategies. This approach not only highlights the potential of applying AI in agriculture but also reflects a broader trend of employing data science to solve real-world problems. The virtual platform of Data Science Africa 2020 facilitated a rich exchange of ideas, allowing participants to share their research, discuss challenges, and identify opportunities for collaboration without the constraints of physical distance.
+DLI2023 was an enriching experience that went beyond mere academic presentations; it was a gathering that celebrated African innovation in AI, bringing together a diverse group of individuals passionate about the potential of deep learning and machine learning technologies. The conference provided an invaluable platform for exchanging ideas, fostering collaborations, and discussing the future implications of AI in solving real-world problems, particularly in the agricultural sector. The interactions and feedback received during my presentations were incredibly beneficial, offering insights that could further refine and enhance my research. Being part of DLI2023 not only advanced my academic pursuits but also reinforced my dedication to contributing meaningfully to the AI community, inspired by the energy, innovation, and collective vision of the participants I engaged with throughout the conference.
 
 
-
-[Read Here](https://www.datascienceafrica.org/dsa2020kampala/schedule/#session-paper2)
+[More Here](https://deeplearningindaba.com/2023/poster-submissions/) and [Here](https://wscv-indaba.github.io/2023#awards) 
