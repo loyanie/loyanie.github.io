@@ -16,6 +16,6 @@ Tuta absoluta is a major threat to tomato production, causing losses ranging fro
 
 ![SelectedImage](/images/sampledatawithdate.PNG)
 
-[Download Dataset Here](https://doi.org/10.1080/08839514.2021.1972254)
+[Read More Here](https://doi.org/10.1080/08839514.2021.1972254)
 
 Recommended citation: <b>Loyani L.</b>, Bradshaw K., & Machuve D. (2021). Segmentation of Tuta absoluta’s damage on tomato plants: A computer vision approach. <i>Applied Artificial Intelligence</i>. Taylor & Francis.  35(14), 1107-1127. https://doi.org/10.1080/08839514.2021.1972254
