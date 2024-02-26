@@ -1,5 +1,5 @@
 ---
-title: "Segmentation of Tuta absoluta’s Damage on Tomato Plants: A Computer Vision Approach"
+title: "Segmentation of Tuta absoluta’s Damage on Tomato Plants"
 collection: talks
 type: "Spotlight Talk and Poster Presentation"
 permalink: /talks/Indaba2023
