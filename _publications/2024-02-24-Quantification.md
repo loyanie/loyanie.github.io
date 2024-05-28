@@ -32,6 +32,6 @@ to prevent further losses.
 
 ![SelectedImage](/images/app_results2.png)
 
-[Read More Here](https://doi.org/10.48084/etasr.4355)
+[Read More Here](https://doi.org/10.1016/J.ATECH.2024.100415)
 
 Recommended citation: <b>Loyani, L.</b>, (2024). Segmentation-based Quantification of Tuta absoluta’s Damage on Tomato Plants. <i>Smart Agricultural Technology</i>, 7, 100415. https://doi.org/10.1016/J.ATECH.2024.100415
