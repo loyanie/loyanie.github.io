@@ -14,7 +14,7 @@ Education
 * MS. in Information Communication Science and Engineering, Nelson Mandela African Institution of Science and Technology (NM-AIST), 2021
 * BSc. in Information Technology and Systems, Mzumbe University, 2017
 
-Research experience
+Research Experience
 ======
 * June 2019 - Sept 2021: [Masters’ Dissertation](https://dspace.nm-aist.ac.tz/handle/20.500.12479/1602)
   * A Quantification Model Against Tuta Absoluta effects on Tomato Plants: A Computer Vision Approach
@@ -55,7 +55,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service, Membership and Leadership
 ======
 * Member of the Organizing Committee - 1st International Conference on the Advancements of Artificial Intelligence in African Context ([AAIAC](https://ai4dlab.or.tz/pages/aaiac/organizers.html))
 * Member of the Organizing Committee - 1st International Conference on Technological Advancement in Embedded and Mobile
