@@ -3,7 +3,7 @@ title: "Segmentation-based Quantification of Tuta absoluta’s Damage on Tomato 
 collection: publications
 permalink: /publication/2024-02-24-Quantification
 
-excerpt: '<img align="left" width="250" height="100" src="/images/app2.png">           
+excerpt: '<img align="left" width="250" height="100" src="/images/featuremaps2.png">           
 
 The invasion of the tomato leaf miner (Tuta absoluta) poses a significant threat to tomato productivity, leading to
 substantial yield losses for farmers. Currently, there is a lack of reliable methods for quantifying the effects of
@@ -30,7 +30,7 @@ detect, segment and count Tuta mines in a tomato leaf image can have a significa
 industry by enabling farmers to quickly assess the extent of damage to their crops and take appropriate measures
 to prevent further losses.
 
-![SelectedImage](/images/app_results2.png)
+![SelectedImage](/images/object_counting.png)
 
 [Read More Here](https://doi.org/10.1016/J.ATECH.2024.100415)
 
