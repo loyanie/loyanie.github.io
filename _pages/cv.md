@@ -57,4 +57,10 @@ Teaching
   
 Service and leadership
 ======
-* 
+* Member of the Organizing Committee - 1st International Conference on the Advancements of Artificial Intelligence in African Context ([AAIAC](https://ai4dlab.or.tz/pages/aaiac/organizers.html))
+* Member of the Organizing Committee - 1st International Conference on Technological Advancement in Embedded and Mobile
+Systems ([ICTA EMoS](https://icta-emos.org))
+* Member of the Black in Artificial Intelligence ([BAI](https://blackinai.github.io/#/)) Community
+* Young Professional & Student Member - Institute of Electrical and Electronics Engineers (IEEE)
+* Systems and ICT Expert of the European Union (EU) Erasmus Plus Capacity Building project on Remote Laboratories for Engineering (RL4Eng) at the Nelson Mandela African Institution of Science and Technology (NM AIST)
+
