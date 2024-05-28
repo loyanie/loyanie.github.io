@@ -30,7 +30,7 @@ detect, segment and count Tuta mines in a tomato leaf image can have a significa
 industry by enabling farmers to quickly assess the extent of damage to their crops and take appropriate measures
 to prevent further losses.
 
-![SelectedImage](/images/object_counting.png)
+![SelectedImage](/images/quantification_arch.png)
 
 [Read More Here](https://doi.org/10.1016/J.ATECH.2024.100415)
 
