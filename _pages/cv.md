@@ -63,4 +63,5 @@ Systems ([ICTA EMoS](https://icta-emos.org))
 * Member of the Black in Artificial Intelligence ([BAI](https://blackinai.github.io/#/)) Community
 * Young Professional & Student Member - Institute of Electrical and Electronics Engineers (IEEE)
 * Systems and ICT Expert of the European Union (EU) Erasmus Plus Capacity Building project on Remote Laboratories for Engineering (RL4Eng) at the Nelson Mandela African Institution of Science and Technology (NM AIST)
+* Volunteering Ambassador & Young Professional Affinity Group Secretary for the Institute of Electrical and Electronics Engineers (IEEE) in Tanzania
 
