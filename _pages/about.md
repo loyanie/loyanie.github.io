@@ -13,4 +13,10 @@ Loyani is an Assistant Lecturer of Machine Learning in the School of Computation
 He has a keen research interest in Artificial Intelligence and Machine Learning, particularly in the field of Computer Vision. Loyani is highly motivated and passionate about research on building Computer Vision methods that enable tackling real-world challenges. His most recent research involved developing a deep learning model for early detection, segmentation and quantification of Tuta absoluta, a pest which is a major threat to tomato productivity globally. This work has been presented at several renowned AI/ML conferences and workshops such as Black in AI/ NeurIPS 2019 & 2023, ICLR 2020, DSA 2020 & 2023, MD4SG 2020 and Deep Learning Indaba 2023, and awarded an honorable mention at the [Weakly Supervised Computer Vision](https://wscv-indaba.github.io/2023#awards) 2023 workshop. 
 
 
+<span style="color:red">
+Loyani is actively looking for PhD opportunities!
+</span>
+
+
+
 
