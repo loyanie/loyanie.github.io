@@ -6,6 +6,7 @@ author_profile: true
 ---
 * September 2024: I am volunteering for the Weakly Supervised Computer Vision ([WSCV](https://wscv-indaba.github.io/2024)) co-located with the Deep Learning Indaba at at Amadou Mahtar Mbow university (UAM) in Dakar, Senegal.
 * September 2024: I am attending the Deep Learning Indaba ([DLI2024](https://deeplearningindaba.com/2024/)) at Amadou Mahtar Mbow university (UAM) in Dakar, Senegal.
+* July 2024: Our team won the Best Project with Social Impact award in a Hackathon competition at the African Computer Vision Summer School (ACVSS).
 * July 2024: I am attending the African Computer Vision Summer School ([ACVSS](https://www.acvss.ai)) at the Microsoft Africa Research Institute in Nairobi, Kenya.
 * June 2024: I am now in an IEEE Volunteering Ambassador in Tanzania 
 * June 2024: I am now a Secretary for the Tanzanian IEEE Young Professional (YP) Affinity group.
