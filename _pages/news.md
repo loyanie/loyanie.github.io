@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* August 2025: Started a PhD in Computer Science and Informatics at [Emory University](https://computerscience.emory.edu/index.html) in Atlanta, Georgia, USA. 
+* April 2025: Joined Google as a Research Intern.
 * September 2024: Won a Best Poster prize at the Deep Learning Indaba in Dakar, Senegal.
 * September 2024: I am volunteering for the Weakly Supervised Computer Vision ([WSCV](https://wscv-indaba.github.io/2024)) co-located with the Deep Learning Indaba at at Amadou Mahtar Mbow university (UAM) in Dakar, Senegal.
 * September 2024: I am attending the Deep Learning Indaba ([DLI2024](https://deeplearningindaba.com/2024/)) at Amadou Mahtar Mbow university (UAM) in Dakar, Senegal.
