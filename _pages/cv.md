@@ -17,6 +17,10 @@ Education
 
 Research Experience
 ======
+* April 2025 - Aug 2025: Research Intern
+  * Google Research Africa
+  * Duties included: AI for Weather
+  * Mentor(s): Emmanuel Brempong, Perry Nelson and John Hickey 
 * June 2019 - Sept 2021: [Masters’ Dissertation](https://dspace.nm-aist.ac.tz/handle/20.500.12479/1602)
   * A Quantification Model Against Tuta Absoluta effects on Tomato Plants: A Computer Vision Approach
   * Duties included: Collecting and annotating tomato dataset, Developing deep learning models for early detection, segmentation and quantification of Tuta absoluta's damage on tomato plants, Deploying the model, and Publishing research papers 
