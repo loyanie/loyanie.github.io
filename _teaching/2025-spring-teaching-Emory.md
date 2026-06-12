@@ -8,7 +8,7 @@ date: 2025-11-01
 location: "Atlanta, Georgia."
 ---
 
-Here, I assist in teaching the following courses for undergraduate Computer Science students.
+Here, I assist in teaching the following courses for undergraduate students in the Department of Computer Science.
 
 * Spring 2026 Semester
   - CS 377: Database Systems (Course Instructor: Prof. Andreas Zufle)
